@@ -65,7 +65,7 @@ function maxSum(data, totalSize) {
 	        // Evaluate the value which is greater
 	        if(sum > responseValue) {
 	            responseValue = sum;
-	            response = { sum, responseArray }
+	            response = { responseValue, responseArray }
 	        }
 	    }
 	}
