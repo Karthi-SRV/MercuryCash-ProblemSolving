@@ -1,0 +1,16 @@
+{
+  "name": "MercuryCash-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   
+    "start": "node index",
+    "start-dev": "NODE_ENV=dev node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
